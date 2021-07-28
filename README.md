@@ -1,2 +1,1 @@
-# React Hooks チュートリアル（スターター）
-チュートリアルのステップ1から開始するためのスタータープロジェクトです。
+https://zenn.dev/yonekubo/articles/17b22c7b4ee07b23369a
